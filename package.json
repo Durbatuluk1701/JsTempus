@@ -1,0 +1,28 @@
+{
+  "name": "jstempus",
+  "version": "0.1.0",
+  "description": "Date, Time, Datetime - Fast, Free, Timeless",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "boogie": "tsc -t es5 Date.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durbatuluk1701/JsTempus.git"
+  },
+  "keywords": [
+    "Date",
+    "Time",
+    "Datetime"
+  ],
+  "author": "Durbatuluk1701",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Durbatuluk1701/JsTempus/issues"
+  },
+  "homepage": "https://github.com/Durbatuluk1701/JsTempus#readme",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
